@@ -1,6 +1,13 @@
-# Ventry – Inventory Manager 📦
+<p align="center">
+  <img src="assets/ventry_icon.ico" alt="Ventry Logo" width="120">
+</p>
 
-A modern desktop inventory management system built with Python and PyQt5.
+<h1 align="center">Ventry – Inventory Manager 📦</h1>
+
+<p align="center">
+  A modern desktop inventory management system built with Python and PyQt5.
+</p>
+
 
 ## 🎯 Features
 
